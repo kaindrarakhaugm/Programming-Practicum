@@ -45,7 +45,7 @@ int main()
         cout << "November has 30 days";
         break;
     case 12:
-        cout << "January has 31 days";
+        cout << "December has 31 days";
         break;
     default:
         cout << "Please input month in the right format!";
